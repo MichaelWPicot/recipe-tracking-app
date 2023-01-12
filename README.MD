@@ -13,7 +13,7 @@ This project focused on utilizing React hooks, reusable components, and passing 
 ![deployed](https://i.imgur.com/uPuZp7V.png)
 
 
-To view this project on the web, click [here](https://michaelwpicot.github.io/recipe-tracking-app/)
+This project been deployed to render, click [here](https://recipe-tracking-app-7cgp.onrender.com/) to view.
 
 ## Questions
 Questions? Reach out at [github.com/michaelwpicot](github.com/michaelwpicot)
